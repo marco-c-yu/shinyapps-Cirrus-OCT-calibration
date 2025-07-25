@@ -4,7 +4,7 @@ This repository contains a **backup of R Shiny App** program for
 **[https://marcocyyu.shinyapps.io/Cirrus-OCT-calibration/](https://marcocyyu.shinyapps.io/Cirrus-OCT-calibration/)** 
 as part of the work in the following study:
 
-**Thakur, S., Yu, M., Tham, Y. C., Cheng, C.-Y., & Wong, T. Y. (2020). The Impact of Signal Strength on Optical Coherence Tomography ( OCT ) Parameters. 33rd Annual Meeting of the Asia-Pacific Association of Cataract and Refractive Surgeons.**
+**Thakur, S., Yu, M., Tham, Y. C., Majithia, S., Soh, Z. Da, Fang, X. L., Cheung, C., Boey, P. Y., Aung, T., Wong, T. Y., & Cheng, C. Y. (2022). Utilisation of poor-quality optical coherence tomography scans: Adjustment algorithm from the Singapore Epidemiology of Eye Diseases (SEED) study. British Journal of Ophthalmology, 106(7), 962–969. https://doi.org/10.1136/bjophthalmol-2020-317756**
 
 > Package: Cirrus-OCT-Signal-Adjustment <br>
 > Copyright (C) 2020  Marco Chak-Yan YU <br>

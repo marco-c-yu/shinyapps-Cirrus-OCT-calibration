@@ -1,0 +1,12 @@
+name: Cirrus-OCT-SS-Adjustment
+title: Cirrus-OCT-SS-Adjustment
+username:
+account: seri-seed
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2455648
+bundleId: 6728366
+url: https://seri-seed.shinyapps.io/Cirrus-OCT-SS-Adjustment/
+when: 1673586066.29583
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,4 +1,4 @@
-# shinyapps-Cirrus-OCT-calibration
+# shinyapps.Cirrus-OCT-calibration
 
 This repository contains a **backup of R Shiny App** program for 
 **[https://marcocyyu.shinyapps.io/Cirrus-OCT-calibration/](https://marcocyyu.shinyapps.io/Cirrus-OCT-calibration/)** 
